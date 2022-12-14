@@ -1,7 +1,7 @@
 #import streamlit as st
 
 import streamlit as st
-st.write('Hello, world!')
+st.write('Hello, friend')
 st.header('st.button')
 
 if st.button('Say hello'):
